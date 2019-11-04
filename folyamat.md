@@ -17,13 +17,20 @@
       c. Indítsuk újra az Apache2 szervert a következő parancsok egyikével:
       
         service apache2 restart
+        VAGY
         /etc/init.d/apache2 restart
+        VAGY
         systemctl restart apache2
+        VAGY
         service apache2 reload
       
       d. A böngészőből ellenőrizzük az info.php fájl elérését:
         
         http://localhost/info.php
+        
+      e. Amennyiben működik, biztonság okokból töröljük a fájlt a következő paranccsal:
+      
+        rm -f /var/www/html/info.php
 
 3. lépés: phpMyAdmin telepítése
 
