@@ -33,7 +33,7 @@
         
       b. A következőben válasszuk ki az apache2 webszerver, majd a dbconfig-common beállításainak az elvégzését.
       
-      c. Állítsuk be az adatbázishoz tartozó admin jelszót, majd a phpMyAdmin belépéséhez tartozót is.
+      c. Állítsuk be a phpMyAdmin belépéséhez használandó jelszót, majd erősítsük meg.
 
 4. lépés: phpMyAdmin elérése
 
