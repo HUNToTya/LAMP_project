@@ -28,7 +28,7 @@
         
         http://localhost/info.php
         
-      e. Amennyiben működik, biztonság okokból töröljük a fájlt a következő paranccsal:
+      e. Amennyiben működik, biztonsági okokból töröljük az info.php fájlt a következő paranccsal:
       
         rm -f /var/www/html/info.php
 
