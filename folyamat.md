@@ -46,7 +46,7 @@
 
         http://localhost/phpmyadmin
         
-      TIPP: Amennyiben nem töltődik be a felület, a következő parancsot futtassuk a következő parancsot:
+      TIPP: Amennyiben nem töltődik be a felület, futtassuk a következő parancsot:
         
         ln -s /usr/share/phpmyadmin /var/www/html/phpmyadmin
         
